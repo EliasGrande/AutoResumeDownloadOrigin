@@ -12,3 +12,4 @@ Usage
 4. Open the downloading game window
 5. Close the main Origin window
 6. Run the script
+7. When the download is complete you can close the script by doing `Right click > Exit` on the "green H" tray icon.
