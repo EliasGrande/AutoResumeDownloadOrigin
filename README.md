@@ -12,4 +12,4 @@ Usage
 4. Open the downloading game window
 5. Close the main Origin window
 6. Run the script
-7. When the download is complete you can close the script by doing `Right click > Exit` on the ![green H](https://raw.githubusercontent.com/EliasGrande/AutoResumeDownload/master/img/tray.png) tray icon.
+7. When the download is complete you can close the script by doing `Right click > Exit` on the ![green H](https://raw.githubusercontent.com/EliasGrande/AutoResumeDownloadOrigin/master/img/tray.png) tray icon.
